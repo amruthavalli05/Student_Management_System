@@ -25,3 +25,31 @@ A C-based Student Management System developed using structures, dynamic memory a
 - File Handling
 - Command Line Arguments
 - GCC/CC Compiler
+## Output
+
+### Main Menu
+![Main Menu](main_menu.png)
+
+### Add Student
+![Add Student](add_student_output.png)
+
+### Display Student
+![Display Student](display_student_output.png)
+
+### Search Student
+![Search Student](search_student_output.png)
+
+### Update Student
+![Update Student](update_student_output.png)
+
+### Delete Student
+![Delete Student](delet_student_output.png)
+
+### Save Students
+![Save Students](save_students_output.png)
+
+### Load Students
+![Load Students](load_students_output.png)
+
+### Highest Marks
+![Highest Marks](highest%20marks%20output.png)
